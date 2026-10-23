@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Cake Adventure - 趣味英语大冒险",
+  "description": "专为小学英语课堂设计的趣味互动单词游戏：帮小伙伴装扮 blonde hair 与 moustache，探索 field 和 lake，收集 cake，走直行 go straight to the school，搭配欢快背景音乐与星星排行榜！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
